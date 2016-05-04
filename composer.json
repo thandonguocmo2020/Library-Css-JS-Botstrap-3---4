@@ -1,0 +1,18 @@
+{
+    "name": "hoang/library",
+    "description": "thu vien css js hay dung",
+    "license": "MIT",
+    "minimum-stability": "RC",
+    "authors": [
+        {
+            "name": "hoang hiep",
+            "email": "thandonguocmo2020@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Library\\": "hoang/library/src"
+        }
+    }
+}
