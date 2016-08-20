@@ -1,6 +1,6 @@
 <?php
 
-namespace Library;
+namespace  Hoanghiep\Library;
 
 use Illuminate\Support\ServiceProvider;
 
