@@ -12,7 +12,7 @@
 
     "autoload": {
         "psr-4": {
-            "Library\\": "hoang/library/src"
+            "Hoanghiep\\Library\\": "hoanghiep/library/src"
         }
     }
 }
