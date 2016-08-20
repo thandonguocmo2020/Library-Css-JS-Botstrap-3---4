@@ -4,7 +4,7 @@ namespace  Hoanghiep\Library;
 
 use Illuminate\Support\ServiceProvider;
 
-class LibraryCssJsProvider extends ServiceProvider {
+class HoanghiepLibraryProvider extends ServiceProvider {
 
     /**
      * Bootstrap the application services.
