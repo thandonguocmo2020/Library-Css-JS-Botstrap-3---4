@@ -3,7 +3,6 @@
     "description": "thu vien css js hay dung",
     "license": "MIT",
    "minimum-stability": "dev",
-   "prefer-stable" : true,
     "authors": [
         {
             "name": "hoang hiep",
