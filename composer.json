@@ -1,5 +1,5 @@
 {
-    "name": "hoang/library",
+    "name": "hoanghiep/library",
     "description": "thu vien css js hay dung",
     "license": "MIT",
     "minimum-stability": "RC",
@@ -9,7 +9,7 @@
             "email": "thandonguocmo2020@gmail.com"
         }
     ],
-    "require": {},
+
     "autoload": {
         "psr-4": {
             "Library\\": "hoang/library/src"

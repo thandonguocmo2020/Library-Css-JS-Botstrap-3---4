@@ -22,7 +22,7 @@ class LibraryCssJsProvider extends ServiceProvider {
      */
     public function register() {
             $this->publishes([
-                __DIR__.'/src/'=> public_path('/src/'),
+                __DIR__.'/src/'=> public_path('/library'),
             ]);
     }
 
