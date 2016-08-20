@@ -2,7 +2,8 @@
     "name": "hoanghiep/library",
     "description": "thu vien css js hay dung",
     "license": "MIT",
-    "minimum-stability": "RC",
+   "minimum-stability": "dev",
+   "prefer-stable" : true,
     "authors": [
         {
             "name": "hoang hiep",
